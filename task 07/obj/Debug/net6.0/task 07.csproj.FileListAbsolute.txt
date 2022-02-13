@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Си#\task 07\bin\Debug\net6.0\task 07.exe
+C:\Users\admin\Desktop\Си#\task 07\bin\Debug\net6.0\task 07.deps.json
+C:\Users\admin\Desktop\Си#\task 07\bin\Debug\net6.0\task 07.runtimeconfig.json
+C:\Users\admin\Desktop\Си#\task 07\bin\Debug\net6.0\task 07.dll
+C:\Users\admin\Desktop\Си#\task 07\bin\Debug\net6.0\ref\task 07.dll
+C:\Users\admin\Desktop\Си#\task 07\bin\Debug\net6.0\task 07.pdb
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.AssemblyInfo.cs
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.dll
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\ref\task 07.dll
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.pdb
+C:\Users\admin\Desktop\Си#\task 07\obj\Debug\net6.0\task 07.genruntimeconfig.cache
