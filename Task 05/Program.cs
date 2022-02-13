@@ -19,5 +19,5 @@ for (int i = 0; i < arrayNumber.Length; i++)
     
     }
 Console.WriteLine("{0}-е число {1} является максимальным из введенных", Flag, maxNumber );
-    return;
+    
 
