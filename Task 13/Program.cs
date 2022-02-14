@@ -1,6 +1,6 @@
-﻿// 10.	Показать последнюю цифру трёхзначного числа
-
-int Num,Flag=0;
+﻿// 13.	Удалить вторую цифру трёхзначного числа
+//Console.WriteLine("Hello, World!");
+int Num,Num1,Num2,Num3,Flag=0;
 Console.WriteLine("Введите любое положительное трехзначное число :");
 Num=Int32.Parse(Console.ReadLine());
 while(Num < 100 || Num > 999) {
@@ -12,4 +12,8 @@ while(Num < 100 || Num > 999) {
     }
     Num=Int32.Parse(Console.ReadLine());
 }
-Console.Write("Последняя цифра введенного трехзначного числа {0} - {1}",Num,(Num%10) );
+Num3=Num%10;
+Num2=(Num/10)%10;
+Num1=Num/100;
+Console.Write("Удалив вторую цифру введенного трехзначного числа {0} - {1}, получим двузначное число {2}",Num,Num2,(Num1*10+Num3) );
+ 

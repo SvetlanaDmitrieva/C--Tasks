@@ -1,12 +1,11 @@
 ﻿//11.	Показать вторую цифру трёхзначного числа
-//Console.WriteLine("Hello, World!");
 
 int Num,Num1,Flag=0;
 Console.WriteLine("Введите любое положительное трехзначное число :");
 Num=Int32.Parse(Console.ReadLine());
 while(Num < 100 || Num > 999) {
     Flag++;
-    Console.WriteLine("Введеное число должно быть положительным трехзачным .Попытка {0} из 5-ти", Flag+1);
+    Console.WriteLine("Введеное число должно быть положительным трехзначным .Попытка {0} из 5-ти", Flag+1);
     if(Flag>=5) {
         Console.WriteLine("Вы использовали 5 попыток. Выход из программы");
         return;
