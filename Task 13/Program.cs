@@ -1,5 +1,5 @@
 ﻿// 13.	Удалить вторую цифру трёхзначного числа
-//Console.WriteLine("Hello, World!");
+
 int Num,Num1,Num2,Num3,Flag=0;
 Console.WriteLine("Введите любое положительное трехзначное число :");
 Num=Int32.Parse(Console.ReadLine());
