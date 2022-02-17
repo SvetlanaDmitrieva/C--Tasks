@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Си#\Task 26\bin\Debug\net6.0\Task 26.exe
+C:\Users\admin\Desktop\Си#\Task 26\bin\Debug\net6.0\Task 26.deps.json
+C:\Users\admin\Desktop\Си#\Task 26\bin\Debug\net6.0\Task 26.runtimeconfig.json
+C:\Users\admin\Desktop\Си#\Task 26\bin\Debug\net6.0\Task 26.dll
+C:\Users\admin\Desktop\Си#\Task 26\bin\Debug\net6.0\ref\Task 26.dll
+C:\Users\admin\Desktop\Си#\Task 26\bin\Debug\net6.0\Task 26.pdb
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.AssemblyInfo.cs
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.dll
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\ref\Task 26.dll
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.pdb
+C:\Users\admin\Desktop\Си#\Task 26\obj\Debug\net6.0\Task 26.genruntimeconfig.cache
