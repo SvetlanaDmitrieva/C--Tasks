@@ -1,5 +1,4 @@
 ﻿// 17.	По двум заданным числам проверять является ли одно квадратом другого
-
 int [] Number= new int [2];
 for (int i = 0; i < 2; i++)
 {
@@ -14,14 +13,12 @@ if(Number[0]==(Number[1]*Number[1]))
         {if(Number[1]==(Number[0]*Number[0])){
         Console.WriteLine("Квадрат первого числа {0,5} равен второму числу {1,5}", Number[0] ,Number[1]);
         return;} }
-if(Number[1]< Number[0]) {Console.WriteLine("Квадрат второго числа {0,5} не равен первому числу {1,5}", Number[1] ,Number[0]);}
-    else
-    {
-        if (Number[0]<Number[1]) {
-            Console.WriteLine("Квадрат первого числа {0,5} не равен второму числу {1,5}", Number[0] ,Number[1] ); }
-            else
+    if(Number[0]==Number[1])
         {
             Console.WriteLine("Первое число {0,5} равно второму {1,5}", Number[0] ,Number[1] );
+            return;
         }
-    }
-    
+        else
+        {
+            Console.WriteLine("Квадрат первого числа {0,5} не равен второму числу {1,5} и наоборот", Number[0] ,Number[1] ); }
+        
