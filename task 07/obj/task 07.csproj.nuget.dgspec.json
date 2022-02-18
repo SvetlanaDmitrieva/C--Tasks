@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Си#\\task 07\\task 07.csproj": {}
+    "C:\\Users\\admin\\Desktop\\Си#\\Task 07\\Task 07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Си#\\task 07\\task 07.csproj": {
+    "C:\\Users\\admin\\Desktop\\Си#\\Task 07\\Task 07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Си#\\task 07\\task 07.csproj",
-        "projectName": "task 07",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Си#\\task 07\\task 07.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Си#\\Task 07\\Task 07.csproj",
+        "projectName": "Task 07",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Си#\\Task 07\\Task 07.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Си#\\task 07\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Си#\\Task 07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
