@@ -7,5 +7,5 @@ while (numberA <= 0)
     flag++;
     if (flag == 5) { Console.WriteLine("Вы использовали 5 возможных попыток"); return; }
 }
-for (int i = 1; i <= numberA; i++) { multiplyNumbers = multiplyNumbers * i;}
+for (int i = 1; i <= numberA; i++) { multiplyNumbers = multiplyNumbers * i; }
 Console.WriteLine("Произведение чисел от 1 до {0} равно {1}", numberA, multiplyNumbers);
