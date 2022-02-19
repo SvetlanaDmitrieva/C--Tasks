@@ -5,7 +5,7 @@ while (numberA <= 0)
     Console.WriteLine("Введите любое положительное число А:");
     numberA = Int32.Parse(Console.ReadLine());
     flag++;
-    if (flag == 5) { Console.WriteLine("Вы тспользовали 5 возможных попыток"); return; }
+    if (flag == 5) { Console.WriteLine("Вы использовали 5 возможных попыток"); return; }
 }
 for (int i = 1; i <= numberA; i++)
 {
