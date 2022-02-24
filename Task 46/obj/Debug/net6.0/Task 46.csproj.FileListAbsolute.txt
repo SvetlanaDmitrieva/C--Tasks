@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Си#\Task 46\bin\Debug\net6.0\Task 46.exe
+C:\Users\admin\Desktop\Си#\Task 46\bin\Debug\net6.0\Task 46.deps.json
+C:\Users\admin\Desktop\Си#\Task 46\bin\Debug\net6.0\Task 46.runtimeconfig.json
+C:\Users\admin\Desktop\Си#\Task 46\bin\Debug\net6.0\Task 46.dll
+C:\Users\admin\Desktop\Си#\Task 46\bin\Debug\net6.0\ref\Task 46.dll
+C:\Users\admin\Desktop\Си#\Task 46\bin\Debug\net6.0\Task 46.pdb
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.AssemblyInfo.cs
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.dll
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\ref\Task 46.dll
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.pdb
+C:\Users\admin\Desktop\Си#\Task 46\obj\Debug\net6.0\Task 46.genruntimeconfig.cache
